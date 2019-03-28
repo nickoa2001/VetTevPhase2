@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Commons">
+			<child name="CommonReporting" key="{70DA1F80-13DC-452B-A6AD-6F9AA0225D0C}" path="CommonReporting.js" />
+			<child name="CommonObjects" key="{978F67D7-7143-4298-9FC7-F98979774868}" path="CommonObjects.js" />
+			<child name="CommonApplication" key="{23F6B4DC-F8D9-4424-855A-6EE56DD3DE27}" path="CommonApplication.js" />
+		</folder>
+		<folder name="Business" />
+		<folder name="TestCases">
+			<child name="ST00_StartApplication" key="{3F590A86-6447-4E6D-B140-9FB576CE98E0}" path="ST00_StartApplication.js" />
+		</folder>
+	</children>
+</Root>
