@@ -10,7 +10,7 @@
 					<param name="RunAs" parameters="" workFolder="D:\Work\WorkShop\VetTev" userName="" password="" domain="" />
 					<param name="Profile" parameters="" workFolder="D:\Work\WorkShop\VetTev" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
 					<param name="Debug" parameters="" workFolder="D:\Work\WorkShop\VetTev" />
-					<param name="Simple" fileName="vettev.exe" filePath="D:\Work\WorkShop\VetTev\" parameters="" workFolder="D:\Work\WorkShop\VetTev" />
+					<param name="Simple" fileName="vettev.exe" filePath="g:\Workshop\vettev\Application\VetTev\" parameters="" workFolder="D:\Work\WorkShop\VetTev" />
 				</runModeParams>
 			</config>
 			<testData />

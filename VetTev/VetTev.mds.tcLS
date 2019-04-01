@@ -28,25 +28,25 @@
 				<Node name="datav3">
 					<Node name="var0">
 						<Node name="value">
-							<Prp name="strvalue" type="H" value="5000610073007300"/>
+							<Prp name="strvalue" type="H" value=" "/>
 						</Node>
 						<Prp name="name" type="S" value="currentTestCaseStatus"/>
 					</Node>
 					<Node name="var1">
 						<Node name="value">
-							<Prp name="strvalue" type="H" value="53005400300033005F004300720065006100740065004E006500770041006E0069006D0061006C0045006E00740072007900"/>
+							<Prp name="strvalue" type="H" value="53005400300030005F00530074006100720074004100700070006C00690063006100740069006F006E00"/>
 						</Node>
 						<Prp name="name" type="S" value="currentTestCaseId"/>
 					</Node>
 					<Node name="var2">
 						<Node name="value">
-							<Prp name="strvalue" type="H" value="53005400300033005F004300720065006100740065004E006500770041006E0069006D0061006C0045006E007400720079002E0078006D006C00"/>
+							<Prp name="strvalue" type="H" value="53005400300030005F00530074006100720074004100700070006C00690063006100740069006F006E002E0078006D006C00"/>
 						</Node>
 						<Prp name="name" type="S" value="currentTestCaseXmlFile"/>
 					</Node>
 					<Node name="var3">
 						<Node name="value">
-							<Prp name="strvalue" type="H" value="4300720065006100740065002000610020006E0065007700200041006E0069006D0061006C00200065006E00740072007900"/>
+							<Prp name="strvalue" type="H" value="53007400610072007400200061006E0064002000530074006F00700020004100700070006C00690063006100740069006F006E00"/>
 						</Node>
 						<Prp name="name" type="S" value="currentTestCaseDescription"/>
 					</Node>

@@ -21,9 +21,13 @@
 	<Node name="root">
 		<Node name="data">
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{0BABBEF5-9FC3-4B74-9BFC-FC912F02A324}"/>
+				<Prp name="activity" type="S" value="{ECFE53D0-F483-4A2B-A233-3B3369B6D7BC}"/>
 			</Node>
-			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}"/>
+			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}">
+				<Node name="{0babbef5-9fc3-4b74-9bfc-fc912f02a324}">
+					<Prp name="hash" type="I" value="1"/>
+				</Node>
+			</Node>
 			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
 				<Node name="workspace">
 					<Node name="0">
@@ -66,6 +70,8 @@
 					</Node>
 					<Node name="2">
 						<Node name="editor">
+							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}"/>
+							<Node name="{d0151f8e-51fe-49da-8534-008b9f1b7c45}"/>
 							<Prp name="editor" type="S" value="{C034BB09-3C5C-48CE-ABCA-34DC3B7DB228}"/>
 							<Prp name="focused" type="S" value="{320CAF7D-BB46-49EC-A1B8-21772D77449D}"/>
 						</Node>
@@ -73,6 +79,8 @@
 					</Node>
 					<Node name="3">
 						<Node name="editor">
+							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}"/>
+							<Node name="{d0151f8e-51fe-49da-8534-008b9f1b7c45}"/>
 							<Prp name="editor" type="S" value="{3683E8EB-0CA6-4EE4-BCF9-6B15EB932ABD}"/>
 							<Prp name="focused" type="S" value="{B7F8903F-500D-47E4-AF41-871C6DF68777}"/>
 						</Node>
@@ -80,6 +88,7 @@
 					</Node>
 					<Node name="4">
 						<Node name="editor">
+							<Node name="{5ffe539d-4323-4667-9624-20005802d25d}"/>
 							<Prp name="editor" type="S" value="{07B12067-63FC-4550-A502-99CE385B5887}"/>
 							<Prp name="focused" type="S" value="{6B5AB3E1-FA46-45CA-BE14-30E6C7EC8A06}"/>
 						</Node>
@@ -87,6 +96,7 @@
 					</Node>
 					<Node name="5">
 						<Node name="editor">
+							<Node name="{fdf3932b-fcdb-4512-87e9-fa5e5d91def4}"/>
 							<Prp name="editor" type="S" value="{66D35CC4-B04E-46D4-9698-AA7A4D99DDD4}"/>
 							<Prp name="focused" type="S" value="{8BF0CAE6-8B5C-4681-9096-C62B7A2322CF}"/>
 						</Node>
@@ -1261,12 +1271,15 @@
 						<Node name="keywordtests"/>
 						<Node name="script">
 							<Node name="commons"/>
+							<Node name="testcases"/>
 						</Node>
 						<Node name="stores"/>
 						<Node name="testedapps"/>
 					</Node>
 				</Node>
-				<Node name="vettev logs"/>
+				<Node name="vettev logs">
+					<Node name="vettev logs"/>
+				</Node>
 			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{8EBE6EB3-803D-4913-AD7A-D71552123A67}"/>
